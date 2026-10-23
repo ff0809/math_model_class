@@ -1,0 +1,1933 @@
+[
+  {
+    "path": "1.3.py",
+    "bytes": 1942,
+    "storage": "git",
+    "sha256": "3444333d047655a0403bc163fc57d83a4d465ee4d29da8352ef05d2ae0c2f598",
+    "mtime_ns": 1775459820700883900
+  },
+  {
+    "path": "1.4.py",
+    "bytes": 1650,
+    "storage": "git",
+    "sha256": "13db6bb0ba561b475a59eba020f60af8be9702e03e37b951d7d1d9cee9b02cd6",
+    "mtime_ns": 1775462344348159500
+  },
+  {
+    "path": "11.1.py",
+    "bytes": 2494,
+    "storage": "git",
+    "sha256": "5720397b8eed5f0438e6893a19536336df8aae2892c7d905ff7f9731eb21c263",
+    "mtime_ns": 1779691407639116200
+  },
+  {
+    "path": "11.2.py",
+    "bytes": 3696,
+    "storage": "git",
+    "sha256": "e8094f5c70d428a0f268c101aac0ad5ab98c0eb80cf4062ce6f0d131a98ed999",
+    "mtime_ns": 1779692706041080700
+  },
+  {
+    "path": "5.2.py",
+    "bytes": 2231,
+    "storage": "git",
+    "sha256": "cf7884e78622b4a0089e1c27f52c422735f55731a37ece2eaa0639f035230368",
+    "mtime_ns": 1775467002953092300
+  },
+  {
+    "path": "5.3.py",
+    "bytes": 1225,
+    "storage": "git",
+    "sha256": "f4d3e4708d0712b2956c4b86dc1440ce85681702a91a11d9cde7de6c7204c5f9",
+    "mtime_ns": 1775468830324885800
+  },
+  {
+    "path": "5.4.py",
+    "bytes": 2513,
+    "storage": "git",
+    "sha256": "12bf1b4c35eadaca089ce91920faf4569a6490a5274543910002bbc0f5afe8c8",
+    "mtime_ns": 1775483380252423900
+  },
+  {
+    "path": "50m间隔_全高程数据.csv",
+    "bytes": 190890,
+    "storage": "git",
+    "sha256": "98d344b2b98fff77cb03be056acfa5f96b445249065cbaceca464a4f3436d745",
+    "mtime_ns": 1775467501599935500
+  },
+  {
+    "path": "7.1.py",
+    "bytes": 517,
+    "storage": "git",
+    "sha256": "b2c7550caa486f4bb71d551131f0e2ff0af5699da061ad989ea2947ea090073d",
+    "mtime_ns": 1775484647442633100
+  },
+  {
+    "path": "7.2.py",
+    "bytes": 1311,
+    "storage": "git",
+    "sha256": "238a2b2e9854f3bc21264d70eeb6d2d4d150fafe5292f0d0b1adcbad835f4fe4",
+    "mtime_ns": 1775486606458961900
+  },
+  {
+    "path": "7.4.py",
+    "bytes": 1664,
+    "storage": "git",
+    "sha256": "1c86e8a69c5d2766e3ef59c351487ec4a2d86bc633b375035ffddd99f86721a1",
+    "mtime_ns": 1775489958536501700
+  },
+  {
+    "path": "8.1.py",
+    "bytes": 2403,
+    "storage": "git",
+    "sha256": "23d669d8d781cd314d633042870de5e15b2488e025143317c68905481d7d5838",
+    "mtime_ns": 1779705918294957200
+  },
+  {
+    "path": "8.2.py",
+    "bytes": 1784,
+    "storage": "git",
+    "sha256": "e0ed7f131fdd42fc3e631764c171f95dbadd94ba4d7a5d5994a6420d96b83e99",
+    "mtime_ns": 1779707625252717900
+  },
+  {
+    "path": "8.3.py",
+    "bytes": 4633,
+    "storage": "git",
+    "sha256": "2450f370afd58dc6ad6b5ccf53c30beaaf173bbaa701db84baf026941bc5f748",
+    "mtime_ns": 1779710684974743400
+  },
+  {
+    "path": "8.4.py",
+    "bytes": 2123,
+    "storage": "git",
+    "sha256": "2513b39e77a268f12bf80b7b92195715d58e0c43f7b619d9b6a04b06cac500f0",
+    "mtime_ns": 1779712608109287800
+  },
+  {
+    "path": "8.5.py",
+    "bytes": 2202,
+    "storage": "git",
+    "sha256": "644c901286de68df463dad4b253e63eea14ed20628292819871a85bdeb655a2f",
+    "mtime_ns": 1779719652636934700
+  },
+  {
+    "path": "8.6.py",
+    "bytes": 3556,
+    "storage": "git",
+    "sha256": "200f6ab3ed77b32b4a44f1140613178088eff8c8132521e843a06166eb9f0fb0",
+    "mtime_ns": 1779800510744678400
+  },
+  {
+    "path": "数学建模10.1-10.3.docx",
+    "bytes": 103330,
+    "storage": "git",
+    "sha256": "41d051eaab5c4b6e90b9eade01b4445ff225f3d1c0daaad71c8690285c191eb3",
+    "mtime_ns": 1779711405414147100
+  },
+  {
+    "path": "数学建模10.1-10.3.pdf",
+    "bytes": 628472,
+    "storage": "git",
+    "sha256": "09602a684531064fd61dd3ef55c0969cd1fd22bb458eaeea7f070aa8bbbb1d90",
+    "mtime_ns": 1779711382989253500
+  },
+  {
+    "path": "数学建模8.1-8.3.docx",
+    "bytes": 105383,
+    "storage": "git",
+    "sha256": "68db81e25bd2b6986fa4c14e138b769d9d0f70b4df520a914e59255587a870fe",
+    "mtime_ns": 1779711684308562100
+  },
+  {
+    "path": "数学建模8.1-8.3.pdf",
+    "bytes": 629995,
+    "storage": "git",
+    "sha256": "66ec8e6bb26de6c910fa48e8775c17956f26a5951431c05e73d0b4f201e1eb9d",
+    "mtime_ns": 1779711560893909300
+  },
+  {
+    "path": "数学建模8.4-8.6.docx",
+    "bytes": 245350,
+    "storage": "git",
+    "sha256": "06bd8ee7f0d307369bff7ccd1862cb1a71bf58de6b728948c616161ebf2789e4",
+    "mtime_ns": 1779721307260400200
+  },
+  {
+    "path": "数学建模8.4-8.6.pdf",
+    "bytes": 722947,
+    "storage": "git",
+    "sha256": "282fc76e85824fc9ec5e5b7cff3c3dcc71daf80c5fc791eab5816b991bd5b1fb",
+    "mtime_ns": 1779721282366454100
+  },
+  {
+    "path": "数学建模第11章作业.docx",
+    "bytes": 36322,
+    "storage": "git",
+    "sha256": "4571de7ee39e448d86b81b31818a78c1153d9b9c1bb6339668e48c4e3c753dbb",
+    "mtime_ns": 1779704144496272200
+  },
+  {
+    "path": "数学建模第11章作业.pdf",
+    "bytes": 435516,
+    "storage": "git",
+    "sha256": "ff82eccdfd16dfed2d99941db2d3b2fe4eb0a9e82c3aaa2c98ee0438e2c1fd57",
+    "mtime_ns": 1779695430719832000
+  },
+  {
+    "path": "数学建模第一章作业.pdf",
+    "bytes": 275208,
+    "storage": "git",
+    "sha256": "dd0b53b50750e7c043c75c5994a7f95f79672134ee005aa46c2114aca73f5907",
+    "mtime_ns": 1775463082006425400
+  },
+  {
+    "path": "数学建模第七章作业.pdf",
+    "bytes": 306374,
+    "storage": "git",
+    "sha256": "36363f8cdbb0d2bd188144f039974f4fd4a4f3763be41c6573c0026527f2e048",
+    "mtime_ns": 1775490173152535600
+  },
+  {
+    "path": "数学建模第五章作业.pdf",
+    "bytes": 537345,
+    "storage": "git",
+    "sha256": "0f441e88721194cb952dbf19630e5da9c650612dacf48743da9845d9f4380e46",
+    "mtime_ns": 1775484187415578100
+  },
+  {
+    "path": "水箱水位与流量图.png",
+    "bytes": 151572,
+    "storage": "git",
+    "sha256": "d0c0227d418c483472e36602e9d811f96ecf13d88c3e8520c4b77617d6cfe369",
+    "mtime_ns": 1775481236208570400
+  },
+  {
+    "path": "水箱流量全时段表.xlsx",
+    "bytes": 32801,
+    "storage": "git",
+    "sha256": "ff773373a79eb8f9c0babb0cabefd516c70f452fd54580b8d6f2768aea10dc36",
+    "mtime_ns": 1775481235771198800
+  },
+  {
+    "path": "水箱流量结果.xlsx",
+    "bytes": 19382,
+    "storage": "git",
+    "sha256": "527d745d832f135fd0c41be195fdbaded43019b69067231c3b377000457a6bf8",
+    "mtime_ns": 1775483418495018500
+  },
+  {
+    "path": "水箱真实流量全时段表.xlsx",
+    "bytes": 33385,
+    "storage": "git",
+    "sha256": "118311ddb5e2814c865d28b2de55b20f30cf00ff73c862c6ce10f53b5ef5091d",
+    "mtime_ns": 1775480735313945900
+  },
+  {
+    "path": "真实物理流量图.png",
+    "bytes": 94849,
+    "storage": "git",
+    "sha256": "5e6711759e02e37a65b5c8ffb3cb2bf512847e7be3bb05dae56f0d1491cfe1d4",
+    "mtime_ns": 1775480735595737300
+  },
+  {
+    "path": "粮食产量拟合对比.png",
+    "bytes": 180679,
+    "storage": "git",
+    "sha256": "12c42b25fbdf7d10709ff4b2a626d045cfa021371e7f8775b0d39260e3e83b89",
+    "mtime_ns": 1779710688889007700
+  },
+  {
+    "path": "B\\config.py",
+    "bytes": 1178,
+    "storage": "git",
+    "sha256": "b370cb5c63fb49f5e24db3f145e7a35527cce9261715fc91d1aa298aabc1f304",
+    "mtime_ns": 1778396162991032900
+  },
+  {
+    "path": "B\\dataset.py",
+    "bytes": 6542,
+    "storage": "git",
+    "sha256": "47b5b0f44f697490e04019675f6bd765b140c4112746575ef5e0bbe90cfbd61b",
+    "mtime_ns": 1778396846786753200
+  },
+  {
+    "path": "B\\eval.py",
+    "bytes": 1685,
+    "storage": "git",
+    "sha256": "dde2fa6c38116874f7c9ebe58b1639885d66dd41c37f5bd60c3ad9f378399585",
+    "mtime_ns": 1778088064000000000
+  },
+  {
+    "path": "B\\inference.py",
+    "bytes": 4911,
+    "storage": "git",
+    "sha256": "6d655cd33589bb65d1a90a094d2143f7d56e4fd2fcd280d4beceef522e6a29b9",
+    "mtime_ns": 1778396253432400400
+  },
+  {
+    "path": "B\\model.py",
+    "bytes": 1642,
+    "storage": "git",
+    "sha256": "e563963f28f04ac25f8ce8f5cafcce421b876471d23b791efba25473cdf08170",
+    "mtime_ns": 1778391662306457900
+  },
+  {
+    "path": "B\\precompute_road_offset.py",
+    "bytes": 2304,
+    "storage": "git",
+    "sha256": "022b2711edd207f61a0fbf952ccc1fe9930e342b6b2fec054b63175123ac6c6e",
+    "mtime_ns": 1778392452324376800
+  },
+  {
+    "path": "B\\road_network.py",
+    "bytes": 3082,
+    "storage": "git",
+    "sha256": "5c859c2d404c32ff3bf14bb17849cfb99845727f3f46c4880a21a0219b18685c",
+    "mtime_ns": 1778396175407657900
+  },
+  {
+    "path": "B\\shaanxi-260505.osm.pbf",
+    "bytes": 72321207,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260505.osm.pbf",
+    "sha256": "c79c16727eecccf7f930474e4a42f7002d0857e22538b266cb5d1af9059c6cb4",
+    "mtime_ns": 1778089892000000000
+  },
+  {
+    "path": "B\\train.py",
+    "bytes": 6925,
+    "storage": "git",
+    "sha256": "3e9684c21a59ada7c86d76d162473b04ab2a9fb33d9b7a6ba257c7d4a42aec93",
+    "mtime_ns": 1778396454397574300
+  },
+  {
+    "path": "B\\utils.py",
+    "bytes": 1179,
+    "storage": "git",
+    "sha256": "5f23e8631cfbb65ba933503fafc2f797e8ff5d2fc8824e5aa07ee4fea525e3ee",
+    "mtime_ns": 1778088068000000000
+  },
+  {
+    "path": "B\\作业说明.txt",
+    "bytes": 4144,
+    "storage": "git",
+    "sha256": "f021b99e997a6f1df4e8c1d0d2ae9e88890a54482f87faa1ce6777684899c4f0",
+    "mtime_ns": 1778088056000000000
+  },
+  {
+    "path": "B\\data_ds15\\train.pkl",
+    "bytes": 137868235,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\data_ds15\\train.pkl",
+    "sha256": "2c5b7ea64e0703ac7d7f62c202869eccc7356127eda8c00bda0320e26c1588d9",
+    "mtime_ns": 1775971220000000000
+  },
+  {
+    "path": "B\\data_ds15\\val.pkl",
+    "bytes": 17505468,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\data_ds15\\val.pkl",
+    "sha256": "816a2ba0f88286e2ca4114ff97cb1b949544c28eee49df8c273cd2bc88cc491a",
+    "mtime_ns": 1775971220000000000
+  },
+  {
+    "path": "B\\data_ds15\\val_road.pkl",
+    "bytes": 29067817,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\data_ds15\\val_road.pkl",
+    "sha256": "c58d5b3c790182018d6c48a017dbda44f34b5e7354ff3348db78b993e8fac49a",
+    "mtime_ns": 1778386325436412700
+  },
+  {
+    "path": "B\\data_org\\train.pkl",
+    "bytes": 615186699,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\data_org\\train.pkl",
+    "sha256": "58b02d01bc6109f1cca50076102fa523410dc0ddc07b8209e1832fdd48068c87",
+    "mtime_ns": 1775971216000000000
+  },
+  {
+    "path": "B\\data_org\\val.pkl",
+    "bytes": 77414469,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\data_org\\val.pkl",
+    "sha256": "358a0ca878c107e217a6f114be2fc4528347f95acfcdb9f939a980fd7fc26181",
+    "mtime_ns": 1775971216000000000
+  },
+  {
+    "path": "B\\outputs\\best_model_road.pth",
+    "bytes": 3453695,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\outputs\\best_model_road.pth",
+    "sha256": "9ae2b4ba15295bef90f67d1804193a078fe9e1d5cf04cf6d3eb146b9e13580bd",
+    "mtime_ns": 1778397083765135800
+  },
+  {
+    "path": "B\\outputs\\val_pred_16.pkl",
+    "bytes": 28277094,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\outputs\\val_pred_16.pkl",
+    "sha256": "ad6c1a0661eb0cd7e75b40d47f535479550729ea3beac76e6d2e32ec41c28ec7",
+    "mtime_ns": 1778397132298897200
+  },
+  {
+    "path": "B\\outputs\\val_pred_8.pkl",
+    "bytes": 28277094,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\outputs\\val_pred_8.pkl",
+    "sha256": "895089bd41b70ea0829a4d712531fb3a5e11b668700ae7994a97379b000dc1bc",
+    "mtime_ns": 1778397117638194100
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.dbf",
+    "bytes": 52072,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.dbf",
+    "sha256": "a3aca3b422c6c74a620c7a20bb02d305dafb72afb50f97edadd6ccbf4fb61684",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.shp",
+    "bytes": 4205732,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.shp",
+    "sha256": "1dba1742bb0b7a5d366a51f86194f713d4d658b036b7587c7206ad710ebb84c1",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.shx",
+    "bytes": 2964,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_adminareas_a_free_1.shx",
+    "sha256": "3fa05f7c20a44e6814abd9687e085539015f381aec33213a137c65ccc58bc1ed",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.dbf",
+    "bytes": 30245519,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.dbf",
+    "sha256": "46e3b01f77d704aadd2ff027156db3bc4b7707d7d7d8216356a1a261fbe05f4c",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.shp",
+    "bytes": 40555064,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.shp",
+    "sha256": "d00d5a987036bf4f48bfbef73ecf23f6fba1303f2ee5ccacc4c6466184e31b30",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.shx",
+    "bytes": 1466540,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_buildings_a_free_1.shx",
+    "sha256": "d08185323b6081296e1e6fc73fc219a0e5497199572bd46ec866b7c039233882",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.dbf",
+    "bytes": 30665197,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.dbf",
+    "sha256": "c9f16e2129c58841a9611232676f7e20d56e8c9ed2a3d44f18bfd4014ad08f13",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.shp",
+    "bytes": 99766368,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.shp",
+    "sha256": "e2401f30aec305443addc595638a871b82e03263f6dceb41f408e0f1ff2c39ad",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.shx",
+    "bytes": 1691964,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_landuse_a_free_1.shx",
+    "sha256": "84d0479668f433033dcf0440a450fe3ccf43377c35fabf33155eaf181a3ab7bd",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.dbf",
+    "bytes": 1902,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.dbf",
+    "sha256": "95e04495296ca5be1f63ac8cc2f8c7d379c8a14d36574f493e2bd1093f5e3db8",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.shp",
+    "bytes": 5044,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.shp",
+    "sha256": "e906d9cdf5096bde8f8f662c5416f3c980685de8c42c3bdf5c31db2098b57d17",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.shx",
+    "bytes": 196,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_a_free_1.shx",
+    "sha256": "a2587710c78b842136c990c15c4904e5cc19602a6a36e07c65f8b9cc297ea930",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.dbf",
+    "bytes": 173002,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.dbf",
+    "sha256": "e97e3c3c99e0eb0fe23bcbee11fa7f89c5c676a7f1ead47e54d7a98b7c406d23",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.shp",
+    "bytes": 33476,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.shp",
+    "sha256": "a313c22e97e4a1c3aceec21ab0dc3abec92e39fbf925fd6c2eb7f11b575581fe",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.shx",
+    "bytes": 9636,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_natural_free_1.shx",
+    "sha256": "bf7c0cb8090e4351ce040adde250c89dabb272c2f5c6b0adbd581ba0485514e4",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.dbf",
+    "bytes": 15074,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.dbf",
+    "sha256": "465fa11702581283ea31643d59b75135a83164a4d9c252b6dc8894d773854a78",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.shp",
+    "bytes": 41888,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.shp",
+    "sha256": "79b8513fd11725992a8ea0e2c22d210cbf29303dc8fd798f4bb05e7132957640",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.shx",
+    "bytes": 868,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_a_free_1.shx",
+    "sha256": "0206dae537b0d85eb46499862a90f5e5af64071eeda0be9978778ac5fb2bfe30",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.dbf",
+    "bytes": 1411469,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.dbf",
+    "sha256": "2b51499f8db962b603046a0b40f806d8b22ee1da03772fb762de63f567b01dc7",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.shp",
+    "bytes": 255040,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.shp",
+    "sha256": "a82cf48f56a37acc7fc936880bce7bc9fb7e8b723ef8179c15cfd811a848956a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.shx",
+    "bytes": 72940,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_places_free_1.shx",
+    "sha256": "33398cbd296a727e7a5fb764e06b639dabfd8dc036293e98fab19dceb0ccf17f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.dbf",
+    "bytes": 21187,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.dbf",
+    "sha256": "7209af951cf721d95b3cc565eee51d4baa234258771a874ab4066561ca302bc0",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.shp",
+    "bytes": 29276,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.shp",
+    "sha256": "af15d72561b2d460df7206b48e5f8a41cf8bf3dc4d19512a11e1d220a2408da7",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.shx",
+    "bytes": 1260,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_a_free_1.shx",
+    "sha256": "d5d141ef1b4f821a2b3f59a1d4e65502c10cf991dde52ee9695a4fd52b18ac88",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.dbf",
+    "bytes": 18432,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.dbf",
+    "sha256": "9b78dc09c8f71b4c18af6fecb5f176ebede5819a0754bd4ea14a4026b95fc817",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.shp",
+    "bytes": 3628,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.shp",
+    "sha256": "813a238efe1c7c440fe7ecbe9139f968544f0e793405318439bfde4692ff7550",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.shx",
+    "bytes": 1108,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pofw_free_1.shx",
+    "sha256": "92613404a6db470bf09dab32924262fbecd9fa667d28a87492d37a3687104840",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.dbf",
+    "bytes": 1182057,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.dbf",
+    "sha256": "88e7107edbc817d4715f48146274baa0da01c34a6211104d298a921c04812e20",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.shp",
+    "bytes": 1933992,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.shp",
+    "sha256": "3a5c25495a852c022499144eb7b39338e619a24ed3d2a1c100a11d87f7272cd0",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.shx",
+    "bytes": 65308,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_a_free_1.shx",
+    "sha256": "a4c9addb62f475eb1632a3d1ff868db2e8579b08e3e9b0d666b66b1f07ea1746",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.dbf",
+    "bytes": 1031547,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.dbf",
+    "sha256": "2cf48935d819758be49c39142a6abe37cfdbe6f4e6b81f96c2114447c1901641",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.shp",
+    "bytes": 199264,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.shp",
+    "sha256": "9ee92485e183f4f5140527db38235dd55b15384d3e847b59c130df3b6cfcd336",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.shx",
+    "bytes": 57004,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_pois_free_1.shx",
+    "sha256": "c055774323519170864b0934d31e65f05f188960d21dea16bef7eeac6508d79b",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.dbf",
+    "bytes": 3190,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.dbf",
+    "sha256": "595d4873b0f80055a0c099409dab65fe9ff37c0c863e584c5f2365cbf70a8fde",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.shp",
+    "bytes": 1905560,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.shp",
+    "sha256": "b02ed28738ed383b1055cb0ddcc877617b54daef04a63c2273e01fb9823cf250",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.shx",
+    "bytes": 644,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_protected_areas_a_free_1.shx",
+    "sha256": "2dde88e9b92b6f9eb2adbe1a63b9be8e66631f3567c3c8e88794469ff6c947e9",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.dbf",
+    "bytes": 2741259,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.dbf",
+    "sha256": "97330227fe6c9cd2e78dbf9211fb843b1956ab6c3a684439d580fc55b25ebcef",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.shp",
+    "bytes": 2685244,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.shp",
+    "sha256": "bc6bb6ef3f5b77d8d3f4d573467b3c481e29f121c20f09c4b52544981817d2cf",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.shx",
+    "bytes": 138012,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_railways_free_1.shx",
+    "sha256": "501882143aab2f31c23159630015ac4e2c9498b8a42b8d34dad024c412c92d98",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.dbf",
+    "bytes": 36376545,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.dbf",
+    "sha256": "a0eb9ad667ea61c43fcb973de3bb64c270ccc84e353f49fab8d6f0a3eaced5f2",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.shp",
+    "bytes": 62448316,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.shp",
+    "sha256": "0434a0cfb49ec9136e4548db466f59ba504b5b4f6353c2083a579df8acff9893",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.shx",
+    "bytes": 1590316,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_roads_free_1.shx",
+    "sha256": "19ca6f28f3c5365aad81ed8f5fb0a353b9b3b703f67dbee6a78fe9b3bdc6a537",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.dbf",
+    "bytes": 413544,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.dbf",
+    "sha256": "b16f3de76024ad6a992d5bd446a743aa5a33150000d22e26c64521781d85c8ca",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.shp",
+    "bytes": 466900,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.shp",
+    "sha256": "ffa51df484d627a9d7100894e446254fca17487152d7363d3ed039dcd776eb76",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.shx",
+    "bytes": 18996,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_a_free_1.shx",
+    "sha256": "66fa481b38f200185061a557bd6af3e32dc05885985d6aaec25f3411066c2d92",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.dbf",
+    "bytes": 3759194,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.dbf",
+    "sha256": "b10b6f0e1161abd85dcbb4f42e4a7c4e93511a14be973dea492ef6f805ff2477",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.shp",
+    "bytes": 601540,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.shp",
+    "sha256": "b845e9ed87581db4e2fb33f39672fc8aaeb308dbe8a1893e17a87b80ad9ed5c6",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.shx",
+    "bytes": 171940,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_traffic_free_1.shx",
+    "sha256": "a212b1ff491f20dd255f4f7ab233f1dd81a247078cc995b8a598b12076ad4a87",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.dbf",
+    "bytes": 17852,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.dbf",
+    "sha256": "e0b4e99293aba9d7cd759ce5b3b8f2b02bd8a56569ce27ab1d09eccab166e136",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.shp",
+    "bytes": 33604,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.shp",
+    "sha256": "1658c0879c0e610be9e6cf208fac38459d0190f456a398fe2867161b48fc2551",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.shx",
+    "bytes": 1076,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_a_free_1.shx",
+    "sha256": "3b01d4ba8f8b5d4204897f1bbc18e4ed30323b6ccf2b60cfd576960870d4deaf",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.dbf",
+    "bytes": 922507,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.dbf",
+    "sha256": "da9d9f66117d31512260b42c2fcf80be9385b97af40853f1605a8f2b1c2721a3",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.shp",
+    "bytes": 178208,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.shp",
+    "sha256": "daef9eec53c1461d83add069048cfae47a49ed7e003b1acef148738aa53f67f3",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.shx",
+    "bytes": 50988,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_transport_free_1.shx",
+    "sha256": "8ec9ef3801df3a2d813f105f542e4711fdf9e176b7c5a5930ac59e1c2df10ce8",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.dbf",
+    "bytes": 1220144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.dbf",
+    "sha256": "1fe01d88c331b7edc61a363f39f50e350fe49cf7f6431f44af6bc33f4d737e8d",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.shp",
+    "bytes": 7005884,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.shp",
+    "sha256": "5fdc4fbfae43275953db335cf98235459b5029232fe0c2f9956c1c947736aecb",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.shx",
+    "bytes": 65164,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_waterways_free_1.shx",
+    "sha256": "e8fedcb290a9d1738837253c90beaf231fddea0e62dbdd7987acb9237f20c8a2",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.cpg",
+    "bytes": 6,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.cpg",
+    "sha256": "146d6789ffe033a5297c1ad046e6a62ee35319b86b021444f05b6ea2aa8a1f4a",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.dbf",
+    "bytes": 528832,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.dbf",
+    "sha256": "b91abe919471e3e06aa87f0adb040c19d3b7d8e5f71956fe1acb87aa34da372e",
+    "mtime_ns": 1778245176000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.prj",
+    "bytes": 144,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.prj",
+    "sha256": "ffc9162903c37f0867d1e7f36c20036a165f7aa555dda24c1ae0ee4328d2977f",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.shp",
+    "bytes": 6388060,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.shp",
+    "sha256": "27b6dfb5fe48b658e521d891154a741a6e56c21fce0f1fe9cc0d8898ab2bc8b8",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.shx",
+    "bytes": 29268,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\shaanxi-260507-free.shp\\gis_osm_water_a_free_1.shx",
+    "sha256": "85b0bedd6408160807528ac7e3377196e4824a91795785dfe822ec1bbd4e0798",
+    "mtime_ns": 1778245178000000000
+  },
+  {
+    "path": "B\\shaanxi-260507-free.shp\\README",
+    "bytes": 658,
+    "storage": "git",
+    "sha256": "4374ffa948df8eb99ccb11644fe43eb246e6e24af788381afcf4a0e6a7c9600e",
+    "mtime_ns": 1778245174000000000
+  },
+  {
+    "path": "B\\task_A_recovery\\val_gt.pkl",
+    "bytes": 16415695,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_A_recovery\\val_gt.pkl",
+    "sha256": "8be9881208275534c4cb3f7a0435d0bd68b905fa172d3f557852e348cbbeb980",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "B\\task_A_recovery\\val_input_16.pkl",
+    "bytes": 18137533,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_A_recovery\\val_input_16.pkl",
+    "sha256": "c8e20118d2c167dbb84b2f7e4c82dcd8e3d08b5e86f9c0875bfe6bc71be55374",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "B\\task_A_recovery\\val_input_16_road.pkl",
+    "bytes": 29782798,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_A_recovery\\val_input_16_road.pkl",
+    "sha256": "544ffc7e8870ee4f3c3cdf003152bd41d0b93923be42b0507e3a23730a0abb24",
+    "mtime_ns": 1778393259653765300
+  },
+  {
+    "path": "B\\task_A_recovery\\val_input_8.pkl",
+    "bytes": 18137533,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_A_recovery\\val_input_8.pkl",
+    "sha256": "820ee6466bdc6eee23ed6b50fad89831e0d48db2e5677fab7c84118ca26bca3a",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "B\\task_A_recovery\\val_input_8_road.pkl",
+    "bytes": 29782798,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_A_recovery\\val_input_8_road.pkl",
+    "sha256": "48ba716dc5b546cc33c0f2edb967ff5ab2d0ec768aea36b1e70962820b94d39e",
+    "mtime_ns": 1778392973827008400
+  },
+  {
+    "path": "B\\task_A_recovery\\任务说明.txt",
+    "bytes": 2175,
+    "storage": "git",
+    "sha256": "4b75de5f5b502fd76d62d13217915df1fe6da891864475c8348608e688a19678",
+    "mtime_ns": 1775980438000000000
+  },
+  {
+    "path": "B\\task_B_tte\\val_gt.pkl",
+    "bytes": 231987,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_B_tte\\val_gt.pkl",
+    "sha256": "02f6b226f38e4624a748e309802cf8640efca15370cb1494bccffaaef1377744",
+    "mtime_ns": 1775978788000000000
+  },
+  {
+    "path": "B\\task_B_tte\\val_input.pkl",
+    "bytes": 10987887,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\B\\task_B_tte\\val_input.pkl",
+    "sha256": "23f122289891a24f4edfa715f28d3049421a1931dab324ddc70d6c6124117052",
+    "mtime_ns": 1775978788000000000
+  },
+  {
+    "path": "B\\task_B_tte\\任务说明.txt",
+    "bytes": 1561,
+    "storage": "git",
+    "sha256": "2bb4c8120a6056bc21ad12c082c200e561401a7b256fe7b9fa3452719d971991",
+    "mtime_ns": 1775981724000000000
+  },
+  {
+    "path": "student_release\\compute_global_stats.py",
+    "bytes": 466,
+    "storage": "git",
+    "sha256": "804916ce062ca677f13101f4a29401b0b6cac2535eeb1932709f23d519f5ada1",
+    "mtime_ns": 1778070385201800600
+  },
+  {
+    "path": "student_release\\config.py",
+    "bytes": 881,
+    "storage": "git",
+    "sha256": "c346e71d6c44f6de6f0f372e8d92b9627a79f0718fa84d785b7f6f0aeb676a79",
+    "mtime_ns": 1778412491432002100
+  },
+  {
+    "path": "student_release\\dataset.py",
+    "bytes": 3088,
+    "storage": "git",
+    "sha256": "6dd3754d2f3ef28def0d894708966276cc92c01fce4ea6363fca4cae378d5a30",
+    "mtime_ns": 1778411504868577500
+  },
+  {
+    "path": "student_release\\eval.py",
+    "bytes": 1659,
+    "storage": "git",
+    "sha256": "76eb930bf88eb59da3b71d6b791b8e32fca037994c2bbae6982881b0251d0c61",
+    "mtime_ns": 1778411528944129900
+  },
+  {
+    "path": "student_release\\inference.py",
+    "bytes": 5116,
+    "storage": "git",
+    "sha256": "8bfd33bb2c8b278e64c0f2762dc2498988aff512d22c6096498fd164421a15df",
+    "mtime_ns": 1778411489363955300
+  },
+  {
+    "path": "student_release\\model.py",
+    "bytes": 1602,
+    "storage": "git",
+    "sha256": "8e98b4c77f5cd5bbea3ebc34a458e7b039498e3f4052dee51256961dc9b225a3",
+    "mtime_ns": 1778410880032804000
+  },
+  {
+    "path": "student_release\\train.py",
+    "bytes": 4254,
+    "storage": "git",
+    "sha256": "85157632d4c27f3ed7a0625e8116b22b07f9a9d1710a5fdc68c866aae81dc518",
+    "mtime_ns": 1778411650323615500
+  },
+  {
+    "path": "student_release\\utils.py",
+    "bytes": 1179,
+    "storage": "git",
+    "sha256": "5f23e8631cfbb65ba933503fafc2f797e8ff5d2fc8824e5aa07ee4fea525e3ee",
+    "mtime_ns": 1778062545764737200
+  },
+  {
+    "path": "student_release\\作业说明.txt",
+    "bytes": 4144,
+    "storage": "git",
+    "sha256": "f021b99e997a6f1df4e8c1d0d2ae9e88890a54482f87faa1ce6777684899c4f0",
+    "mtime_ns": 1775987540000000000
+  },
+  {
+    "path": "student_release\\基础Transformer.zip",
+    "bytes": 7692,
+    "storage": "git",
+    "sha256": "1dee65f587c82826300f12a8742fcb5a9c040915d591f2e45140f7706b672b26",
+    "mtime_ns": 1778419411704684900
+  },
+  {
+    "path": "student_release\\data_ds15\\train.pkl",
+    "bytes": 137868235,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\data_ds15\\train.pkl",
+    "sha256": "2c5b7ea64e0703ac7d7f62c202869eccc7356127eda8c00bda0320e26c1588d9",
+    "mtime_ns": 1775971220000000000
+  },
+  {
+    "path": "student_release\\data_ds15\\val.pkl",
+    "bytes": 17505468,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\data_ds15\\val.pkl",
+    "sha256": "816a2ba0f88286e2ca4114ff97cb1b949544c28eee49df8c273cd2bc88cc491a",
+    "mtime_ns": 1775971221000000000
+  },
+  {
+    "path": "student_release\\data_org\\train.pkl",
+    "bytes": 615186699,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\data_org\\train.pkl",
+    "sha256": "58b02d01bc6109f1cca50076102fa523410dc0ddc07b8209e1832fdd48068c87",
+    "mtime_ns": 1775971216000000000
+  },
+  {
+    "path": "student_release\\data_org\\val.pkl",
+    "bytes": 77414469,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\data_org\\val.pkl",
+    "sha256": "358a0ca878c107e217a6f114be2fc4528347f95acfcdb9f939a980fd7fc26181",
+    "mtime_ns": 1775971217000000000
+  },
+  {
+    "path": "student_release\\outputs\\best_model.pth",
+    "bytes": 3452386,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\outputs\\best_model.pth",
+    "sha256": "2e853a3aa251603f23b90c724f574d21f1f1a04920b439ea629e7c36b34ba2dd",
+    "mtime_ns": 1778413087704486300
+  },
+  {
+    "path": "student_release\\outputs\\val_pred_16.pkl",
+    "bytes": 28277094,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\outputs\\val_pred_16.pkl",
+    "sha256": "23ab2f1425f65573ba8bfeba4a5b6cae8529c34db714f06464726d1673b5b945",
+    "mtime_ns": 1778412406663784400
+  },
+  {
+    "path": "student_release\\outputs\\val_pred_8.pkl",
+    "bytes": 28277094,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\outputs\\val_pred_8.pkl",
+    "sha256": "946fb473613b94cd8f12017c73809a4e795ed7a536f336e719d3934ae47e6511",
+    "mtime_ns": 1778412327439488700
+  },
+  {
+    "path": "student_release\\task_A_recovery\\val_gt.pkl",
+    "bytes": 16415695,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\task_A_recovery\\val_gt.pkl",
+    "sha256": "8be9881208275534c4cb3f7a0435d0bd68b905fa172d3f557852e348cbbeb980",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "student_release\\task_A_recovery\\val_input_16.pkl",
+    "bytes": 18137533,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\task_A_recovery\\val_input_16.pkl",
+    "sha256": "c8e20118d2c167dbb84b2f7e4c82dcd8e3d08b5e86f9c0875bfe6bc71be55374",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "student_release\\task_A_recovery\\val_input_8.pkl",
+    "bytes": 18137533,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\task_A_recovery\\val_input_8.pkl",
+    "sha256": "820ee6466bdc6eee23ed6b50fad89831e0d48db2e5677fab7c84118ca26bca3a",
+    "mtime_ns": 1775975388000000000
+  },
+  {
+    "path": "student_release\\task_A_recovery\\任务说明.txt",
+    "bytes": 2175,
+    "storage": "git",
+    "sha256": "4b75de5f5b502fd76d62d13217915df1fe6da891864475c8348608e688a19678",
+    "mtime_ns": 1775980438000000000
+  },
+  {
+    "path": "student_release\\task_B_tte\\val_gt.pkl",
+    "bytes": 231987,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\task_B_tte\\val_gt.pkl",
+    "sha256": "02f6b226f38e4624a748e309802cf8640efca15370cb1494bccffaaef1377744",
+    "mtime_ns": 1775978788000000000
+  },
+  {
+    "path": "student_release\\task_B_tte\\val_input.pkl",
+    "bytes": 10987887,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\student_release\\task_B_tte\\val_input.pkl",
+    "sha256": "23f122289891a24f4edfa715f28d3049421a1931dab324ddc70d6c6124117052",
+    "mtime_ns": 1775978788000000000
+  },
+  {
+    "path": "student_release\\task_B_tte\\任务说明.txt",
+    "bytes": 1561,
+    "storage": "git",
+    "sha256": "2bb4c8120a6056bc21ad12c082c200e561401a7b256fe7b9fa3452719d971991",
+    "mtime_ns": 1775981725000000000
+  },
+  {
+    "path": "期中大作业\\期中大作业报告.pdf",
+    "bytes": 886570,
+    "storage": "git",
+    "sha256": "c5f18ddce24d88e87e8aabb9637df7006670896fc76a901e0bdf1f9194b705e1",
+    "mtime_ns": 1779029994000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\README.md",
+    "bytes": 4755,
+    "storage": "git",
+    "sha256": "c6b5354b08f96dc9b3139203f99078e81772e3f35297d75fe027d2e701482a80",
+    "mtime_ns": 1779003636000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\astar\\route_recover.py",
+    "bytes": 14485,
+    "storage": "git",
+    "sha256": "ec1649b0d9c807746609b5b280c94198587c750d39dc3b3c57cc994160fb5911",
+    "mtime_ns": 1779003618000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\compare_trajectories.py",
+    "bytes": 4222,
+    "storage": "git",
+    "sha256": "a28b53cab8436b471078758b360b5fe776b666107c718df0405d3d32882531fe",
+    "mtime_ns": 1778987368000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\linear.py",
+    "bytes": 4580,
+    "storage": "git",
+    "sha256": "adab35834ac8796af9c5efc2d4aa32de47af13e015959fa0c4efd2b085a520c9",
+    "mtime_ns": 1778986502000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\plot_interpolation.py",
+    "bytes": 6410,
+    "storage": "git",
+    "sha256": "4f658d967d7290450ab704b3f4a478566d2da37d77bfb0069a9e5dc8bfad1fae",
+    "mtime_ns": 1778987344000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\plot_results.py",
+    "bytes": 12205,
+    "storage": "git",
+    "sha256": "fa5aab919377411880ad764c781b4a44a71142724738c5a1c66bcf85ff5798d6",
+    "mtime_ns": 1778987300000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\plot_sampling_comparison.py",
+    "bytes": 3080,
+    "storage": "git",
+    "sha256": "96939f28d61ba0c6780bdc25e87476431681044f27ea8f442144aa25f06711b9",
+    "mtime_ns": 1778986572000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\baseline\\result_check.py",
+    "bytes": 786,
+    "storage": "git",
+    "sha256": "aebf871fedc63bd2169c35ca3c6646fac606bd5b015769847a621b24f947d506",
+    "mtime_ns": 1778986518000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\retrieval\\inspect_results.py",
+    "bytes": 3481,
+    "storage": "git",
+    "sha256": "8100eb69ee7560fd84d93e06be1bc91f716d0ef926e6117eabc0b6ba0dfe7520",
+    "mtime_ns": 1779000466000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\retrieval\\plot_report_figures.py",
+    "bytes": 5206,
+    "storage": "git",
+    "sha256": "23b3632ba78471a729e9fa2ba08832846f7c50483ec4122bdd3ea75665eddd42",
+    "mtime_ns": 1779000466000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\retrieval\\README.md",
+    "bytes": 899,
+    "storage": "git",
+    "sha256": "aa796f616c214198d33808b3301fc2e384919a99d3b55cea559261137ed078f1",
+    "mtime_ns": 1779000466000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\retrieval\\retrieval_recover.py",
+    "bytes": 18340,
+    "storage": "git",
+    "sha256": "e6a42a6f6abb48b5f541b45c8580d86f23aea01430ce64726fa2b6d668df45cf",
+    "mtime_ns": 1779000466000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\retrieval\\tune_retrieval.py",
+    "bytes": 3659,
+    "storage": "git",
+    "sha256": "740744d526b78db95acf972363a4ab167ccd44eacb3db006764ea8156ed22c85",
+    "mtime_ns": 1779000466000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\config.py",
+    "bytes": 1571,
+    "storage": "git",
+    "sha256": "e5e441791fb5ff25c9af8a8b96e587c12af484ea18ac452274a4dd87bae3675e",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\dataset.py",
+    "bytes": 7170,
+    "storage": "git",
+    "sha256": "e20811119c3571707d7156adcf5ff687d755250fb17e717a363bcbb68d1e91bc",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\eval.py",
+    "bytes": 1462,
+    "storage": "git",
+    "sha256": "9b31722feaa4b6745faef0831eb0b49fad75cf1e1cc981a1082caf401fa71f82",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\inference.py",
+    "bytes": 6700,
+    "storage": "git",
+    "sha256": "1ea92f53767dbb5d78c600fb3b690d0f9f8f6d1807a4466e03a1bffe64136457",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\model.py",
+    "bytes": 1417,
+    "storage": "git",
+    "sha256": "b6d13350a894a3055265f121bf01741d9fac207f40814dba5a93823e1c166b7c",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\precompute_road_offset.py",
+    "bytes": 2920,
+    "storage": "git",
+    "sha256": "c20898643e08426d3934ec8f1613016dc8344813f7f1f8b63e50d6d18ab9f13e",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\road_network.py",
+    "bytes": 6186,
+    "storage": "git",
+    "sha256": "24cd15ec8359be91aa1a724a83260798113e46a0ffa72ae345374b497d45e2db",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\train.py",
+    "bytes": 6089,
+    "storage": "git",
+    "sha256": "6e0d576861ec1753907380c141c7d0271189ffe83fa1a051cb8d888708d4a9ee",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_a\\transformer\\utils.py",
+    "bytes": 1937,
+    "storage": "git",
+    "sha256": "529423b10b3188aec2c7548b0a57da207c8869be7dffeeeaa6ab3fa1e391050a",
+    "mtime_ns": 1779000458000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_b\\plot_report_figures.py",
+    "bytes": 5814,
+    "storage": "git",
+    "sha256": "2ff1758e3b8a71e77f1145f53304205465e6f87d7e1ba934a1d62978ff08ccaf",
+    "mtime_ns": 1779000642000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_b\\predict_task_b.py",
+    "bytes": 4542,
+    "storage": "git",
+    "sha256": "9bbeba97cc88c0eefac3ef06fd436891126c50dc301051fd068b7958f2cd7fba",
+    "mtime_ns": 1779000648000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_b\\README.md",
+    "bytes": 3193,
+    "storage": "git",
+    "sha256": "857717e2247d6f1582fc0d7af94578cc238947fe335bf0076806e88b18f31df5",
+    "mtime_ns": 1779002852000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_b\\task_b_common.py",
+    "bytes": 11833,
+    "storage": "git",
+    "sha256": "ed30395daa21b8d0eeef9a9cbfaa245d196fd30248e9e0a32d9a11a0ca0b3849",
+    "mtime_ns": 1779000666000000000
+  },
+  {
+    "path": "期中大作业\\code\\task_b\\train_task_b.py",
+    "bytes": 7981,
+    "storage": "git",
+    "sha256": "2e4399a3776aab440a5d7f64bb030a03aa8aeb9942ff90d7fda163ce61025f30",
+    "mtime_ns": 1779000672000000000
+  },
+  {
+    "path": "期末\\final_best_submission.zip",
+    "bytes": 4473513,
+    "storage": "git",
+    "sha256": "4102e3d9a10fa0741090f81c6ebc5d6fefb34d7d378531f9f09456e653dabeab",
+    "mtime_ns": 1783149515801660800
+  },
+  {
+    "path": "期末\\item_emb.parquet",
+    "bytes": 175259485,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\item_emb.parquet",
+    "sha256": "c6fb9d277814d3db6f075c4faf615109d56bd0276f7082acd4433a514e13c249",
+    "mtime_ns": 1782974858955107300
+  },
+  {
+    "path": "期末\\item_feature.parquet",
+    "bytes": 614937888,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\item_feature.parquet",
+    "sha256": "a63d8cbe090a79ee18bdb51a4146a4205339cb4b3b81bcae26035c17a322fc65",
+    "mtime_ns": 1782975492552734500
+  },
+  {
+    "path": "期末\\item_images.rar",
+    "bytes": 3202508674,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\item_images.rar",
+    "sha256": "1a780c6a402e458e570446449981395bae4259248010b831f20c83b22f89b5ad",
+    "mtime_ns": 1782978560017162300
+  },
+  {
+    "path": "期末\\item_info_ziao.parquet",
+    "bytes": 74155724,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\item_info_ziao.parquet",
+    "sha256": "f1f0c90646f830c91b9e92c50cc78587b2ff70c9027ed30f53688def42fac468",
+    "mtime_ns": 1783040480000000000
+  },
+  {
+    "path": "期末\\item_seq.parquet",
+    "bytes": 50195297,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\item_seq.parquet",
+    "sha256": "9947546f718bf72285da77b18bb7587b3f48e3247001ee3a1b0e9ee4072273d6",
+    "mtime_ns": 1782974665900332700
+  },
+  {
+    "path": "期末\\Jina_text_img_v8.py",
+    "bytes": 4839,
+    "storage": "git",
+    "sha256": "0d706bf5a6cf97781c46175c73e885b8a11c7ab30ff0c39c472bb4ff4e0813b5",
+    "mtime_ns": 1783039602000000000
+  },
+  {
+    "path": "期末\\metadata",
+    "bytes": 94,
+    "storage": "git",
+    "sha256": "8fb798d96b20e86d90ea5cca6af9d601102cf8980147766da125cdadd390161f",
+    "mtime_ns": 1783064928000000000
+  },
+  {
+    "path": "期末\\MicroLens_1M_x1.zip",
+    "bytes": 185864772,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\MicroLens_1M_x1.zip",
+    "sha256": "4b920eb3751009ebaf8d740e62c478b8d58dbb50190c1740203204479f261f38",
+    "mtime_ns": 1782975002714303700
+  },
+  {
+    "path": "期末\\MMCTR_Task1_2_Ziao_embedding_README.txt",
+    "bytes": 631,
+    "storage": "git",
+    "sha256": "4ce6e32a55ba504933ea15280798e37646051f123692ec2d7de371aea4ab53a2",
+    "mtime_ns": 1783067518000000000
+  },
+  {
+    "path": "期末\\README.md",
+    "bytes": 21271,
+    "storage": "git",
+    "sha256": "4554ac15fce5e7191843ba0d3395395b5c58bc768d45577a9400f50f6b1d7ad5",
+    "mtime_ns": 1782974641466059000
+  },
+  {
+    "path": "期末\\scores.json",
+    "bytes": 86,
+    "storage": "git",
+    "sha256": "da465550c2b4a0f75410dd24daff8ae29116e44ecd00f3106206acd6a7b56981",
+    "mtime_ns": 1783064924000000000
+  },
+  {
+    "path": "期末\\Task1&2.zip",
+    "bytes": 4496153,
+    "storage": "git",
+    "sha256": "63753e8fefa082c5c5033b423c454ebbf2834c91c40676dc7fe01d52bfbac4be",
+    "mtime_ns": 1783223268850723400
+  },
+  {
+    "path": "期末\\Task1.zip",
+    "bytes": 25124,
+    "storage": "git",
+    "sha256": "96423c99c79c83e2138ae0605f90119f3ada15b9d4ec702e676769fcf65b7314",
+    "mtime_ns": 1783153259428741700
+  },
+  {
+    "path": "期末\\task2.zip",
+    "bytes": 27371,
+    "storage": "git",
+    "sha256": "bde618a82d4bb9f0f012763a67ff2857781d62ff8259c8c1aa12ef8c92ec92db",
+    "mtime_ns": 1783153110292714500
+  },
+  {
+    "path": "期末\\Transformer_DCN_MicroLens_1M_x1_001_820c435c.zip",
+    "bytes": 4339556,
+    "storage": "git",
+    "sha256": "9e8a0f1d4e2acea6b601bfaaf088e08e5b1ce6c10287867f441f2627e837824b",
+    "mtime_ns": 1783174884677019000
+  },
+  {
+    "path": "期末\\ZiaoGao_README.md",
+    "bytes": 1430,
+    "storage": "git",
+    "sha256": "419537d8876f5c9da353a9df96f5c1bb05db1d6ca5c07c8649759ba22f1bc3aa",
+    "mtime_ns": 1783039590000000000
+  },
+  {
+    "path": "期末\\数学建模期末大作业.zip",
+    "bytes": 16284915,
+    "storage": "git",
+    "sha256": "30c137c60a079b5ad039e0c569be5bb87b3360fcb5093c523fd4ad5d91a6802b",
+    "mtime_ns": 1783223817474592900
+  },
+  {
+    "path": "期末\\数学建模期末大作业视频.mp4",
+    "bytes": 10879493,
+    "storage": "git",
+    "sha256": "f883cec5d79eb115b6a2f0fd2b083266f25867a895a2ed8f37fb7755e79443ad",
+    "mtime_ns": 1783223348181048600
+  },
+  {
+    "path": "期末\\数学建模期末论文.pdf",
+    "bytes": 818018,
+    "storage": "git",
+    "sha256": "24864b0978cb3c9a58da91e38cb3d36a19df4828607237aec964381094b9d2e9",
+    "mtime_ns": 1783223776167637500
+  },
+  {
+    "path": "期末\\数模期末汇报_级联多模态深度兴趣网络.pptx",
+    "bytes": 891464,
+    "storage": "git",
+    "sha256": "810c057f9e0dae006adbc4007d8fc4ce2ac7bb163950ffd0874236cb0d82b6b8",
+    "mtime_ns": 1783220045591913200
+  },
+  {
+    "path": "期末\\Math_model-CTR\\bridge_processor.py",
+    "bytes": 4211,
+    "storage": "git",
+    "sha256": "519caf3559bb5ce0998e324ea54b412513b476b0e6dfd60ddb872a41f4233864",
+    "mtime_ns": 1783151277437770100
+  },
+  {
+    "path": "期末\\Math_model-CTR\\cascade_tuning.py",
+    "bytes": 1647,
+    "storage": "git",
+    "sha256": "7a09d142b8d3e1302164a499a70fa7d0f9cd8c059d540b83e05bca7861ad5003",
+    "mtime_ns": 1783151277468952200
+  },
+  {
+    "path": "期末\\Math_model-CTR\\MMCTR_Task1_code_and_report.zip",
+    "bytes": 25124,
+    "storage": "git",
+    "sha256": "96423c99c79c83e2138ae0605f90119f3ada15b9d4ec702e676769fcf65b7314",
+    "mtime_ns": 1783153259428741700
+  },
+  {
+    "path": "期末\\Math_model-CTR\\prediction.py",
+    "bytes": 2755,
+    "storage": "git",
+    "sha256": "3333f0b1c1bfc55de214862938349d8626b6194f8f261df7be214dabaca8c005",
+    "mtime_ns": 1783153691123826200
+  },
+  {
+    "path": "期末\\Math_model-CTR\\Task1&2.zip",
+    "bytes": 4496153,
+    "storage": "git",
+    "sha256": "63753e8fefa082c5c5033b423c454ebbf2834c91c40676dc7fe01d52bfbac4be",
+    "mtime_ns": 1783223268850723400
+  },
+  {
+    "path": "期末\\Math_model-CTR\\task2.zip",
+    "bytes": 27371,
+    "storage": "git",
+    "sha256": "bde618a82d4bb9f0f012763a67ff2857781d62ff8259c8c1aa12ef8c92ec92db",
+    "mtime_ns": 1783153110292714500
+  },
+  {
+    "path": "期末\\Math_model-CTR\\数模期末汇报_级联多模态深度兴趣网络.pptx",
+    "bytes": 891464,
+    "storage": "git",
+    "sha256": "810c057f9e0dae006adbc4007d8fc4ce2ac7bb163950ffd0874236cb0d82b6b8",
+    "mtime_ns": 1783220045591913200
+  },
+  {
+    "path": "期末\\Math_model-CTR\\checkpoints\\MicroLens_1M_x1\\Transformer_DCN_MicroLens_1M_x1_001_820c435c.log",
+    "bytes": 6233,
+    "storage": "git",
+    "sha256": "f949a90aed963ea3e293ef5fe4915482cc4c1335ac56f5d881375d398ddc1e19",
+    "mtime_ns": 1783151314008912600
+  },
+  {
+    "path": "期末\\Math_model-CTR\\checkpoints\\MicroLens_1M_x1\\Transformer_DCN_MicroLens_1M_x1_001_820c435c.model",
+    "bytes": 1085909349,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\Math_model-CTR\\checkpoints\\MicroLens_1M_x1\\Transformer_DCN_MicroLens_1M_x1_001_820c435c.model",
+    "sha256": "bd0d34e8f0b1519c020da4c648bfb617b6eac446ee0757ab47c25075586f41f7",
+    "mtime_ns": 1783151313982023800
+  },
+  {
+    "path": "期末\\Math_model-CTR\\config\\Transformer_DCN_microlens_mmctr_config\\dataset_config.yaml",
+    "bytes": 1222,
+    "storage": "git",
+    "sha256": "bc6bb9cec2cfc4b7711a9832e445990acefb43847789f8896c65fd22738efc9d",
+    "mtime_ns": 1783151275459674900
+  },
+  {
+    "path": "期末\\Math_model-CTR\\config\\Transformer_DCN_microlens_mmctr_config\\model_config.yaml",
+    "bytes": 1081,
+    "storage": "git",
+    "sha256": "49ce238b410d83b784fba6c3f9eb48c009463a8f2654ffcd76292c1ba73014ae",
+    "mtime_ns": 1783153371736823100
+  },
+  {
+    "path": "期末\\Math_model-CTR\\src\\Cascade_Transformer_DCN.py",
+    "bytes": 7521,
+    "storage": "git",
+    "sha256": "1fa0935eeefe49d53e62e8cc0bfd0c55e948e5085e112a6153a068e62275bf65",
+    "mtime_ns": 1783153001190062000
+  },
+  {
+    "path": "期末\\Math_model-CTR\\src\\DIN.py",
+    "bytes": 5282,
+    "storage": "git",
+    "sha256": "9da1952ec57321a97075793070a93e66c31c9a813184bd26ff72d1fb78072335",
+    "mtime_ns": 1783151275619024100
+  },
+  {
+    "path": "期末\\Math_model-CTR\\src\\mmctr_dataloader.py",
+    "bytes": 3076,
+    "storage": "git",
+    "sha256": "88eda4cee0059b36bf551e5ac1eeda246bca9c41318e5578d43b03d968fa3a7e",
+    "mtime_ns": 1783151275587855600
+  },
+  {
+    "path": "期末\\Math_model-CTR\\src\\__init__.py",
+    "bytes": 119,
+    "storage": "git",
+    "sha256": "ff4b5429ea9238b11d23625306ca73d2e3a66231b7c3668453bc05f132456a87",
+    "mtime_ns": 1783153112526465200
+  },
+  {
+    "path": "期末\\Math_model-CTR\\submission\\final_best_submission.zip",
+    "bytes": 4473513,
+    "storage": "git",
+    "sha256": "4102e3d9a10fa0741090f81c6ebc5d6fefb34d7d378531f9f09456e653dabeab",
+    "mtime_ns": 1783151277046898100
+  },
+  {
+    "path": "期末\\MicroLens_1M_x1\\item_info.parquet",
+    "bytes": 53727432,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\MicroLens_1M_x1\\item_info.parquet",
+    "sha256": "89921fceb40ca09b322f599013d518e707fcf3acce019873920bedb393da9bd4",
+    "mtime_ns": 1783096641327568800
+  },
+  {
+    "path": "期末\\MicroLens_1M_x1\\test.parquet",
+    "bytes": 12777733,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\MicroLens_1M_x1\\test.parquet",
+    "sha256": "bbef0222d1658adc47a4f05a3c240bab4ddb9e64f5c4edf3adce325b0f9ac534",
+    "mtime_ns": 1783096641411044000
+  },
+  {
+    "path": "期末\\MicroLens_1M_x1\\train.parquet",
+    "bytes": 119469642,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\MicroLens_1M_x1\\train.parquet",
+    "sha256": "182fba831484d931e3943557cdd1b791861b2f921d0a7ff66bb34d492be7d5b1",
+    "mtime_ns": 1783096642129417900
+  },
+  {
+    "path": "期末\\MicroLens_1M_x1\\valid.parquet",
+    "bytes": 309443,
+    "storage": "external",
+    "source_path": "E:\\课程数据归档\\20261023\\math_model_class\\期末\\MicroLens_1M_x1\\valid.parquet",
+    "sha256": "5c945764bc7e2be1f4bcc865bd832cc771478242e1971e338237360b5cc32f88",
+    "mtime_ns": 1783096642141431900
+  }
+]

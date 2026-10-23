@@ -1,0 +1,12 @@
+{
+  "regenerable_directories": [
+    "B\\__pycache__",
+    "student_release\\__pycache__",
+    "期中大作业\\code\\task_a\\retrieval\\__pycache__",
+    "期末\\Math_model-CTR\\__pycache__",
+    "期末\\Math_model-CTR\\src\\__pycache__"
+  ],
+  "credential_files_retained_locally": [],
+  "environments": [],
+  "original_git_history": []
+}
